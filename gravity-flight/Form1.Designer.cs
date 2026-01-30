@@ -421,7 +421,7 @@
             this.стопToolStripMenuItem,
             this.выходToolStripMenuItem});
             this.действиеToolStripMenuItem.Name = "действиеToolStripMenuItem";
-            this.действиеToolStripMenuItem.Size = new System.Drawing.Size(103, 30);
+            this.действиеToolStripMenuItem.Size = new System.Drawing.Size(103, 32);
             this.действиеToolStripMenuItem.Text = "Действие";
             // 
             // пускToolStripMenuItem
@@ -450,7 +450,7 @@
             this.графикиToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.показатьToolStripMenuItem});
             this.графикиToolStripMenuItem.Name = "графикиToolStripMenuItem";
-            this.графикиToolStripMenuItem.Size = new System.Drawing.Size(97, 30);
+            this.графикиToolStripMenuItem.Size = new System.Drawing.Size(97, 32);
             this.графикиToolStripMenuItem.Text = "Графики";
             // 
             // показатьToolStripMenuItem

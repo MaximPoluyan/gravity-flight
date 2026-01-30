@@ -371,5 +371,7 @@ namespace _1_ая_лабораторная
         {
             Application.Exit();
         }
+
+        
     }
 }
